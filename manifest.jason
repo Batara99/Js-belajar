@@ -1,0 +1,38 @@
+{
+  "name": "CaraBuatAkunWp",
+  "short_name": "CBAWP",
+  "start_url": "https://www.carabuatakunwp.com//",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s48/cba.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s72/cba.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s96/cba.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s144/cba.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s168/cba.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s192/cba.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7c79u7UP5I/XTgVOu4oG3I/AAAAAAAAAqM/5rSstpICYGQLNPvYIA5arH9s3LmyGoeKgCLcBGAs/s512/cba.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
